@@ -13,3 +13,4 @@
 - Configurable since-tag
 - Clean Markdown output
 - No dependencies beyond git and bash
+# Additional testing notes
